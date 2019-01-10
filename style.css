@@ -1,0 +1,29 @@
+
+<head>
+<style>
+#title 
+{
+text-align:center;
+font-size:30px;
+
+}
+#menue
+{
+float:left;
+width:200px;
+border: 1px solid black;
+
+}
+#infobox
+{
+float:right;
+width:20%;
+border: 1px solid black;
+}
+#haupt
+{
+height:90%;
+border: 1px solid black;
+}
+</style>
+</head>
